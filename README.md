@@ -1,3 +1,5 @@
+Olá. Este projeto faz parte do curso de Web Developer da Digital House. Ele consiste em uma lista de afazeres.
+
 # AngularTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
